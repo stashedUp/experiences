@@ -1,0 +1,16 @@
+site_name: Experiences, Goals and Aspiration
+theme:
+    name: material
+    palette:
+        primary: white
+    favicon: static/logo.png
+    logo: static/logo.png
+
+nav:
+    - index.md
+    - WhyLeave.md
+    - WhatDoIDo.md
+    - Ownership.md
+    - BFS.md
+    - DFS.md
+    - Print.md
