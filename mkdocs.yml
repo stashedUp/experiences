@@ -8,6 +8,7 @@ theme:
 
 nav:
     - index.md
+    - AboutMe.md
     - WhyLeave.md
     - WhatDoIDo.md
     - Ownership.md

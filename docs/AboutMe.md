@@ -6,4 +6,4 @@ I joined Pearson as a backend Software Engineer. At that time, we were still in 
 
 A few years later, I was at a conference and I learned about distributed systems and microservices. I proposed to my manager that we should sit with the developer, understand their workflow and build the infrastructure with the development team. Right about that time, Pearson transitioned me to a SRE role. 
 
-I am glad I found my calling early, I’m glad didn’t play it safe, instead I was a little bit swashbuckling#
+I am glad I found my calling early, I’m glad did not play it safe, instead I was a little bit swashbuckling
