@@ -2,8 +2,9 @@
 
 - [SCHOOL] I actually went to school for Actuarial Science. My parents wanted me to be an Actuary. 
 - While in college, I enjoyed building websites and writing programs for fun. 
-- I learned how to code by reading a book. It’s probably uncommon these days. 
-- My advisor suggested I add computer science to the list of degrees. My mom advised me to get serious about my life and be an actuary. But I am glad I followed my passion and chose to be a software developer. 
+- I took several CS classes and really enjoyed it.
+- My advisor suggested I add computer science to degress.
+- My mom on the other hand, advised me to get serious about my life and be an actuary. But I am glad I followed my passion and chose to be a **software developer**. 
 
 - [SOFTWARE ENGINEER] I joined Pearson as a backend Software Engineer. At that time, we were still in the data center. 
 - A year later, I heard that we were moving to the cloud. I had a lot of ideas about how we should build our infrastructure. 
@@ -18,4 +19,4 @@
 - I proposed to my manager that we should sit with the developer, understand their workflow and build the infrastructure with the development team. 
 - Right about that time, Pearson transitioned me to a SRE role. 
 
-I am glad I found my calling early, I’m glad did not play it safe, instead I was a little bit swashbuckling
+I am glad I found my calling early, I’m glad did not play it safe, instead I was a little bit swashbuckling. In short, I LOVE coding. I would never change a thing
