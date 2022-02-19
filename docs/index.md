@@ -4,5 +4,4 @@
 
 This site to help interviewers follow along as I describe my experiences, goals and aspirations. 
 
-With visual graphics and documentations, I can better prove my worth.
 

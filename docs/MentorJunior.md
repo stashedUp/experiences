@@ -2,7 +2,7 @@
 
 ### Situation:
 - My passion has always been teaching. I enjoy teaching.
-- In fact, I’ve consider being a professor when I retire
+- In fact, I’ve considered being a professor when I retire
 - Before I became a team lead, I had to show my managers that I am capable of teaching, training and mentoring junior to senior level employees that joined my team. 
 
 ### Problem:
