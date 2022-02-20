@@ -31,3 +31,5 @@
 ### Lesson:
 - From this initiative, I have learnt that it is better to invest the time creating a comprehensive onboarding project rather than simply asking the new employee to shadow senior employees in the long run. 
 - It’s methodical and we can work on a baseline to improve the program. 
+
+[show-website](https://google.com)
