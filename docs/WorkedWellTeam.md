@@ -1,5 +1,8 @@
 # Tell me about a time you worked well as a part of a team?
 
+## Showed initiative
+## Showed ownership
+
 ### Situation: 
 - Before I became a team lead, there was a time when my team took over another team’s product. 
 - Since we took over, we now had to manage this product’s infrastructure and deployments. 
