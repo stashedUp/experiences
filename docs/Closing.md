@@ -15,3 +15,8 @@
 - I am fast learner and hardworking. 
 - I know I can add value to your team within a month. 
 - I have high standards and always go above and beyond to solve a problem. 
+
+## job
+- Supply Chain Automation, 
+- leveraging computer vision to accelerate sustainable transport and technology to everyone
+- kubernetes April 15- i got my kubenetes exam schduled
