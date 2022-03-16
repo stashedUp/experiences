@@ -1,8 +1,7 @@
 # Walk me through your resume? Tell me about yourself.
 
 - [SCHOOL] I actually went to school for Actuarial Science. My parents wanted me to be an Actuary. 
-- While in college, I enjoyed building websites and writing programs for fun. 
-- I took several CS classes and really enjoyed it.
+- While in college,I took several CS classes and really enjoyed it.
 - My advisor suggested I add computer science to degress.
 - My mom on the other hand, advised me to get serious about my life and be an actuary. But I am glad I followed my passion and chose to be a **software developer**. 
 
@@ -19,4 +18,8 @@
 - I proposed to my manager that we should sit with the developer, understand their workflow and build the infrastructure with the development team. 
 - Right about that time, Pearson transitioned me to a SRE role. 
 
-I am glad I found my calling early, I’m glad did not play it safe, instead I was a little bit swashbuckling. In short, I LOVE coding. I would never change a thing
+I am glad I found my calling early, I’m glad did not play it safe, instead I was a little bit swashbuckling. In short, I LOVE coding. I would never change a thing.
+In my past time, I enjoy flying and flying. I became a pilot a few years ago (I guess that's the fun fact about me)
+
+## Kubernetes
+I am mostly nervous about the Kubernetes part of the interview. I mostly use ECS (Kubernetes counterpart) at work. Most of my kubernetes knowledge is from my own effort - reading, online class and my own projects. I am confident with docker, linux, networking and architecture/design.
