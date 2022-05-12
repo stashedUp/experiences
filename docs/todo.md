@@ -25,7 +25,8 @@ Problem:
 The customer wanted a new feature on top of what we already have for their application. But there was a bug with the operating system that we were using. I had to chose what I should work on immediately. 
 
 Solution: 
-I chose to work on fixing the bug first because it might have severe implication that we might not know of.
+I chose to work on fixing the bug first because it might have severe implication that we might not know of. Also, I think the customer trusted us with their information. I need to keep that trust. 
+
 Lesson:
 Impact:
 
@@ -56,4 +57,7 @@ project, but what you actually did. Use the word “I,” not “we” when desc
 Result: Describe the outcome of your actions and don’t be shy about taking credit for your
 behavior. What happened? How did the event end? What did you accomplish? What did you
 learn? Make sure your answer contains multiple positive results. 
+
+pass information - cannot have tribal knowledge
+
 
