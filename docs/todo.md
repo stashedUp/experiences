@@ -17,12 +17,27 @@ So the impact from this experience is that, most of my future project have bette
 
 
 What do you do when you have two conflicting priorities and can only deliver one on time?
+
+Situation:
+I had a situation once where I had to chose between two priorities. The customer of a product we support are expected the release of a new feauture. On the infrastucture platform side, there was a bug that needed to be fixed and released.
+
+Problem:
+The customer wanted a new feature on top of what we already have for their application. But there was a bug with the operating system that we were using. I had to chose what I should work on immediately. 
+
+Solution: 
+I chose to work on fixing the bug first because it might have severe implication that we might not know of.
+Lesson:
+Impact:
+
+
 When was the last time you were unable to deliver within the timeframe originally specified?
 What happens when you realize you will be unable to deliver by the set deadline?
 Tell Me About a Time You Failed.
 If You’re Proud Of Something, What Would It Be?
 
 What Would You Focus On: Fixing A Customer’s Issue Or Making A Great Customer Experience?
+
+Situation:
 
 
 Situation: Describe the situation that you were in or the task that you needed to accomplish. You
