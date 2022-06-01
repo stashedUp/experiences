@@ -32,7 +32,7 @@ I develop tools to bridge the gap - that missing piece.
 - I hate the culture of one-man-army where one person has the knowledge of the software since he is the only person that wrote it. I think a good software if never final. It's always evolving. And is should. But it must be a collborative effort. Where ideas are opposed and agreed upon. 
 - I also don't encourage tribal knowledge. This is when a particular skill set is only shared among a group of people. As a leader, I hate passing of a information. This is where I encourage documentations and healthy debates.
 - As a leader, I also want to enable others to innovate (not just for myself). I want to create a culture of experimentation where people can try and fail. I do this a lot with my team. 
-- As a lead, I experimented a 
+- As a lead, I proposed that each member should work an project apart from day-to-day projects (Jira stories), as a result, we found a way to cut our operating cost by 70% 
 
 # Deploying through the pipeline involves three main phases:
 
