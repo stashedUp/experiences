@@ -12,14 +12,13 @@
 - Being always on Slack is a distraction 
 - Distractions and partial focus would lead to suboptimal work
  
-
 ### Solution:
 - I sat down and meet my manager on a resolution
 - I told him  we need the engineers focus on their work with fewer distractions
 - But he insisted that we should be reachable at all times
 - I suggested that the "on-call" person of the week can take on the role of runner. That means if the dev team has unnplanned work, and when they ping my team on slack, the on-call person will respond
 - I also suggested that the engineers use the focus emoji to let others know that they are in focus mode
-- - My manager was willing to compromise to that idea
+- My manager was willing to compromise to that idea
 
 ### Impact:
 - As an impact, with fewer distractions, my team felt they were much more productive 

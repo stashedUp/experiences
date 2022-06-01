@@ -11,7 +11,6 @@ The development team moved their monolithic application into microservices. The 
 2. Their retry logic was embedded in the source code. When an upload fails, the retry loop and timeout is within the same code. With the loops and timeout, I felt like this was an inefficient solution. The services ends up busy being a lot.
 
 
-
 ### Solution:
 My solution was to use message queues. Using a publisher and subscriber model, we don’t have to use the database as a placeholder.
 
