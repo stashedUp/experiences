@@ -17,6 +17,6 @@
 - I proposed to my manager that we should sit with the developer, understand their workflow and build the infrastructure with the development team. 
 - Right about that time, Pearson transitioned me to a SRE role. 
 
-I am glad I found my calling early, I’m glad did not play it safe, instead I was a little bit swashbuckling. In short, I LOVE coding. I would never change a thing.
+- I am glad I found my calling early, I’m glad did not play it safe, instead I was a little bit swashbuckling. In short, I LOVE coding. I would never change a thing.
 In my past time, I enjoy flying and flying. I became a pilot a few years ago (I guess that's the fun fact about me)
 

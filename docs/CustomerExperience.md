@@ -1,5 +1,8 @@
 # What do you do when you have two conflicting priorities and can only deliver one on time?
-# What Would You Focus On: Fixing A Customer’s Issue Or Making A Great Customer Experience?
+
+## What Would You Focus On: Fixing A Customer’s Issue Or Making A Great Customer Experience?
+
+## Tell me about a time you had multiple responsibilities to manage. How did you respond to this situation?
 
 ### Situation:
 I had a situation once where I had to chose between two priorities. The customer of a product we support are expected the release of a new feauture. On the infrastucture platform side, there was a bug that needed to be fixed and released.

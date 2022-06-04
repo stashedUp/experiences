@@ -34,4 +34,5 @@ Describe the outcome of your actions and don’t be shy about taking credit for 
 behavior. What happened? How did the event end? What did you accomplish? What did you
 learn? Make sure your answer contains multiple positive results. 
 
-### Impact:
+### Lesson:
+
