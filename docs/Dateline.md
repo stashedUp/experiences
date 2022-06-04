@@ -12,7 +12,7 @@ Since I have migrated a couple of products in the past. I figured I would take a
 I ended up having to learn about their application, teaching them about docker and providing sample docker files. This wasn't enough. I also had to actuallly write their docker files - including create a small testing suite using docker compose. All this ultimately cost a lot of time and effor and I missed the dateline.
 
 ### Lesson:
-From this experience, I have learned not to be optimistic about setting dateline. I admit I was wrong and I should have communicated with the product team, understand their needs and technology shortcomings. Communication was key, and overconfidence can be detrimental. Going forward, I spent a lot more time understanding the product workflow, technology debt of the team I am working with and setting up realistic timelines. I rather be honest than provide a superficial timeline. 
+From this experience, I have learned not to be optimistic about setting dateline. I admit I was wrong and I should have communicated with the product team, understand their needs and technology shortcomings. Communication was key, and overconfidence can be detrimental. Going forward, I spent a lot more time understanding the product workflow, technology debt of the team I am working with and setting up realistic timelines. I rather be honest than provide a superficial timeline. Without a realistic deadline, the team can feel burnout and deliver subpar work.
 
 ### Impact: 
 So the impact from this experience is that, most of my future project have better dateline and I set better, more organized timeline for myself and my team in general.

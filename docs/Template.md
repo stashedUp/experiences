@@ -14,6 +14,12 @@
 # STAR
 
 ### Situation: 
+### Task:
+### Action: 
+### Result:
+### Lesson:
+
+### Situation: 
 Describe the situation that you were in or the task that you needed to accomplish. You
 must describe a specific event or situation, not a generalized description of what you have done in
 the past. Be sure to give enough detail for the interviewer to understand. This situation can be
@@ -35,4 +41,6 @@ behavior. What happened? How did the event end? What did you accomplish? What di
 learn? Make sure your answer contains multiple positive results. 
 
 ### Lesson:
+
+
 
