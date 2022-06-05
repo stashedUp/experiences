@@ -1,0 +1,2 @@
+- If you want to be original, you have to accept the uncertainty, even when it’s uncomfortable
+- Put smart, passionate people in a room together, charge them with identifying and solving problems, and encourage them to be candid
