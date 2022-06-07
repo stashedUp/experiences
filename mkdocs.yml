@@ -7,35 +7,40 @@ theme:
     logo: static/logo.png
 
 nav:
-    - index.md
     - AboutMe.md
-    - WhyLeave.md
-    - WhatDoIDo.md
-    - ProudOf.md
-    - Strengths.md
-    - MentorJunior.md
-    - OnBoarding.md
-    - DifficultDecision.md
-    - WorkedWellTeam.md
-    - MatterToUser.md
-    - DoneDifferently.md
-    - DificultFeedback.md
-    - FavLanguage.md
+    - Beliefs.md
+    - BiggestTechincalChallenge.md
     - Closing.md
+    - Conflict.md
+    - Criticism.md
+    - CustomerExperience.md
+    - Dateline.md
+    - DifficultDecision.md
+    - DificultFeedback.md
+    - Disagreed.md
+    - DoneDifferently.md
+    - FavLanguage.md
+    - FiveYears.md
+    - Goals.md
+    - MatterToUser.md
+    - MentorJunior.md
+    - NextRole.md
+    - OnBoarding.md
+    - Ownership.md
+    - Pixar.md
+    - Preparedness.md
+    - ProudOf.md
     - Questions.md
     - Smalltalk.md
-    - Conflict.md
-    - Criticism.md 
-    - Disagreed.md
-    - NextRole.md
-    - Ownership.md
+    - Strengths.md
+    - TeamWork.md
+    - Template.md
     - Todo.md
     - Unfair.md
     - Weakness.md
-    - Template.md
-    - Dateline.md
-    - Goals.md
-    - CustomerExperience.md
+    - WhatDoIDo.md
+    - WhyLeave.md
+    - WorkedWellTeam.md
 
 
 
