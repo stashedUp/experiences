@@ -26,6 +26,8 @@
 
 ### Lesson:
 - I told my manager that I have to learn and grow from my own experience 
+- I need to make my own mistakes and learn from them
 - I should be able to experiment new ways and see what works or not
+- The key here is to present your case from a logiacal perspective, do not let emotions or ego get in the way
 - When I become a manager someday, I will in return let him or her try their own concepts/theories
 
