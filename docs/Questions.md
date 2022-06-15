@@ -4,4 +4,10 @@
 - What's one thing about working at this company that surprised you after you joined?
 - What are some common characteristics shared by people who have exceeded expections in this role in the past?
 
+- Can you share an example of something the team did that didn’t go well, and what did you do to course correct? 
+- What does the shipping look like internally, and, How much attention do you pay to reducing friction for the engineering team? 
+- How will I fail? 
+- How do you incentivise your team? 
+
+
  
