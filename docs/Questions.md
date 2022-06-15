@@ -10,4 +10,9 @@
 - How do you incentivise your team? 
 
 
+- What is the state of technology at <>? Is the company drowning in complexity and tech debt or are they doing most things right
+- How are decisions made? To what extent would I be able to influence decisions?
+- What is the culture like? Will I be able to strive there? Will working in this culture be fun or will it result in negative stress?
+- How is authority established and are people empowered to challenge authority to move everyone forward?
+
  
