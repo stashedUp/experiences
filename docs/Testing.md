@@ -2,6 +2,7 @@
 
 # Test Driven Deployment
 
+- For the vast majority of us, unit tests were short bits of throw-away code that we wrote to make sure our programs “worked.”
 - The problem is that tests must change as the production code evolves. 
 - The dirtier the tests, the harder they are to change. 
 - The more tangled the test code, the more likely it is that you will spend more time 
@@ -31,8 +32,8 @@ it hard to get those tests to pass again. So the tests become viewed as an ever-
 - A system test is the largest scale test that engineers run for an undeployed system. 
 - All modules belonging to a specific component, such as a server that passed integration tests, are assembled into the system. 
 - Then the engineer tests the end-to-end functionality of the system.
--- Smoke tests
--- Performance tests
--- QA tests
--- Regression test
+ - Smoke tests
+ - Performance tests
+ - QA tests
+ - Regression test
 
