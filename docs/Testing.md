@@ -39,6 +39,8 @@ it hard to get those tests to pass again. So the tests become viewed as an ever-
 
 ### Key 
 Take away - Don’t comment out failing test. Delete it if it’s not relevant or refactor the test.
-
+- Keep the build and test process short
+- Speed is essential because there is an opportunity cost associated with not delivering software. 
+- Delivering fast is also important because it allows you to verify whether our features and bug fixes are really useful.
 
 SEE - Builing and deploying
