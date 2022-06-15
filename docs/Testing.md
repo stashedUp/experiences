@@ -37,3 +37,8 @@ it hard to get those tests to pass again. So the tests become viewed as an ever-
  - QA tests
  - Regression test
 
+### Key 
+Take away - Don’t comment out failing test. Delete it if it’s not relevant or refactor the test.
+
+
+SEE - Builing and deploying
