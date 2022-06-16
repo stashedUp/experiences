@@ -39,10 +39,10 @@
 
 
 ### When receiving negative feedback: The Dos and Don’ts of how to properly accept criticism
-Don’t: React right away
-Don’t: Take it personally
-Don’t: Try to justify, deflect, or ignore it
-Don’t: Always wait for others to offer up feedback
-Do: Take time to gather your thoughts and not get overwhelmed
-Do: Ask for explicit feedback and clarification
-Do: Set expectations for what kind of feedback you’re looking for
+1. Don’t: React right away
+2. Don’t: Take it personally
+3. Don’t: Try to justify, deflect, or ignore it
+4. Don’t: Always wait for others to offer up feedback
+5. Do: Take time to gather your thoughts and not get overwhelmed
+6. Do: Ask for explicit feedback and clarification
+7. Do: Set expectations for what kind of feedback you’re looking for
