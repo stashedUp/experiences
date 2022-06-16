@@ -28,3 +28,21 @@
 - One lesson to take away from this is that not every bad action needs a stick approach.
 - Sometimes, we have to come from a place of understanding. 
 - Coming from a place of understanding promotes  camaraderie and a sense of belonging towards the team. 
+
+
+### When giving negative feedback: 5 ways to give criticism people actually want to hear
+1. Understand the psychology of feedback (and how it’s going to impact the person receiving it)
+2. Reframe feedback as “advice” or “guidance”
+3. Forget the sandwich method and focus on candor instead
+4. Be informative and focus on areas of improvement
+5. Continually work on building a culture of trust
+
+
+### When receiving negative feedback: The Dos and Don’ts of how to properly accept criticism
+Don’t: React right away
+Don’t: Take it personally
+Don’t: Try to justify, deflect, or ignore it
+Don’t: Always wait for others to offer up feedback
+Do: Take time to gather your thoughts and not get overwhelmed
+Do: Ask for explicit feedback and clarification
+Do: Set expectations for what kind of feedback you’re looking for
