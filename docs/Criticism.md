@@ -25,6 +25,24 @@ When I wrote code with the programming language that I am most comfortable with.
  - Treat everything as an experiment. There are no failures only failed hypothesis. We keep trying and experimenting until we get the desired outcome.
 
 
+### When giving negative feedback: 5 ways to give criticism people actually want to hear
+1. Understand the psychology of feedback (and how it’s going to impact the person receiving it)
+2. Reframe feedback as “advice” or “guidance”
+3. Forget the sandwich method and focus on candor instead
+4. Be informative and focus on areas of improvement
+5. Continually work on building a culture of trust
+
+
+### When receiving negative feedback: The Dos and Don’ts of how to properly accept criticism
+1. Don’t: React right away
+2. Don’t: Take it personally
+3. Don’t: Try to justify, deflect, or ignore it
+4. Don’t: Always wait for others to offer up feedback
+5. Do: Take time to gather your thoughts and not get overwhelmed
+6. Do: Ask for explicit feedback and clarification
+7. Do: Set expectations for what kind of feedback you’re looking for
+
+
 
 
 
