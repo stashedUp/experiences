@@ -31,3 +31,24 @@
 - The key here is to present your case from a logiacal perspective, do not let emotions or ego get in the way
 - When I become a manager someday, I will in return let him or her try their own concepts/theories
 
+
+### Key Takeaways - individual conflict:
+- Study the problem and collect all available information
+- Defining the problem: defining and clarifying all positions (What's my manager's position & my position)
+- Sharing the information: making the information available to all
+- Developing the action plan: getting commitment
+- Implementing the work: taking action on the plan
+- Following up: obtaining feedback on the implementation for the action plan
+
+### Team conflict - between teams
+- Study the problem and collect all available information
+- Defining the problem: defining and clarifying all positions (What's my manager's position & my position)
+- Sharing the information: making the information available to all
+- Setting the appropriate priorities: developing working sessions for setting priorities and timetables
+- Organizing the group: forming cross-functional problem-solving groups
+- Problem-solving: obtaining cross-functional involvement, securing commitments, and setting the priorities and timetable
+- Developing the action plan: getting commitment
+- Implementing the work: taking action on the plan
+- Following up: obtaining feedback on the implementation for the action plan
+
+
