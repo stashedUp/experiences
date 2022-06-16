@@ -44,11 +44,19 @@
 - Study the problem and collect all available information
 - Defining the problem: defining and clarifying all positions (What's my manager's position & my position)
 - Sharing the information: making the information available to all
-- Setting the appropriate priorities: developing working sessions for setting priorities and timetables
+- Setting the appropriate priorities: developing working timelines
 - Organizing the group: forming cross-functional problem-solving groups
-- Problem-solving: obtaining cross-functional involvement, securing commitments, and setting the priorities and timetable
 - Developing the action plan: getting commitment
 - Implementing the work: taking action on the plan
 - Following up: obtaining feedback on the implementation for the action plan
 
+### Thing to keep in mind while dealing with confrontation
+- Pausing and thinking before reacting
+- Building trust
+ -Trying to understand the conflict motives
+- Keeping the meeting under control
+- Listening to all involved parties
+- Maintaining a give-and-take attitude
+- Being willing to say when you were wrong
+- Not acting as a superman and leveling the discussion only once in a while
 
