@@ -14,7 +14,7 @@ I did manage to convince the team to move to a different better stack and this i
 - build a pipeline to deploy app code in to the proposed env
 - show an extensive benefits vs disadvantes table
 
-SHOW DEMO [HERE](https://github.com/stashedUp/tomo-documenting-architecture-decisions)
+SHOW DEMO (https://github.com/stashedUp/tomo-documenting-architecture-decisions)[HERE]
 
 ### Result: 
 - The development team was more inclind to move to the newer stack 
