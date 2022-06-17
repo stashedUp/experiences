@@ -7,10 +7,13 @@ theme:
     logo: static/logo.png
 
 nav:
+    - index.md
     - AboutMe.md
+    - Apple.md
     - Beliefs.md
     - BiggestTechincalChallenge.md
     - Closing.md
+    - Collaboration.md
     - Conflict.md
     - Criticism.md
     - CustomerExperience.md
@@ -22,6 +25,7 @@ nav:
     - FavLanguage.md
     - FiveYears.md
     - Goals.md
+    - Learning.md
     - MatterToUser.md
     - MentorJunior.md
     - NextRole.md
@@ -29,24 +33,20 @@ nav:
     - Ownership.md
     - Pixar.md
     - Preparedness.md
+    - ProjectPlanning.md
     - ProudOf.md
     - Questions.md
     - Smalltalk.md
+    - Software.md
     - Strengths.md
     - TeamWork.md
     - Template.md
+    - Testing.md
     - Todo.md
     - Unfair.md
+    - Versioncontrol.md
     - Weakness.md
     - WhatDoIDo.md
     - WhyLeave.md
     - WorkedWellTeam.md
 
-
-
-    
-
-
-
-
-  
