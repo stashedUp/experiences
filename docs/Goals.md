@@ -4,15 +4,16 @@
 
 ### Improve the way we do things
 
-I enjoy developing tools that would help developers and systems engineers with their day-to-day work.
-Day to day, we encounter gaps within our workflow. Often times, people take manual steps to fill this gaps.
-Say you want all developers to use a certain version of a software
-Or, when you deploy code, you need to run several automated test 
-Or, you need a way to centralize logs for all products in your portfolio
+- I enjoy developing tools that would help developers and systems engineers with their day-to-day work.
+- Day to day, we encounter gaps within our workflow. Often times, people take manual steps to fill this gaps.
+- Say you want all developers to use a certain version of a software
+- Or, when you deploy code, you need to run several automated test 
+- Or, you need a way to centralize logs for all products in your portfolio
 - how would you accomplish this. 
-How do you roll out a systemmatic, consistent pipeline of delivering software?
+- How do you roll out a systemmatic, consistent pipeline of delivering software?
+- How 
 
-I develop tools to bridge the gap - that missing piece.
+- I develop tools to bridge the gap - I am that missing piece.
 
 ### Automation
 - When you’re not automating the process, you’re creating manual one. These manual steps usually require communication from a person to another. 

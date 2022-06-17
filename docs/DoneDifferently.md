@@ -22,6 +22,7 @@
 - Overtime, I have learned that we have to plan for complexity within our code as well - not just the infrastructure.
 - On a later project, we modularied our terraform code so that resource files so that it can be shared 
 - As a lead, I enforce keeping the code dry as much as possible
+- MANAGING Complexiy
 
 ### Impact:
 - When you keep your code in a way that it can scale, it will prevent messy code and unnecessary band aids
