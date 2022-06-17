@@ -9,8 +9,7 @@
 - Coming from a Site Reliability Engineering background, I bring diversity to the team. I bring experience in not only writing code but also building, testing and deploying large scale software
 - This includes my knowledge in linux internals and networking
 - In my previous interviews, I have showed examples of how I have implemented standards and best practices in releasing software
-- I am good at writing complex tools or services that help developers and system administrators
-- I am passionate about this - I have written tools and services that do this at my current role, and I have demonstrated this ability in my open source projects that are used by developers around the world
+- I do this at my current role at Pearson, and with my open source projects 
 - I’ve always enjoyed solving hard problems and at Pixar they solve hard problems. That's the itch I'm trying to scratch. At Pixar, I get the opportunity to solve hard problems.
 
 
